@@ -22,3 +22,26 @@ Verifies that the application meets both functional and non-functional requireme
 Builds and maintains automated test scripts and frameworks, selects areas suitable for automation, ensures automated tests provide reliable feedback.
 ### DevOps Engineer ###
 Facilitates collaboration between development and operations, builds CI/CD pipelines, automates deployment and operations to accelerate delivery while maintaining stability.
+
+
+## Technology stack ##
+### Django ###
+A web framework for building RESTful APIs and managing backend logic such as authentication, bookings, and property listings.
+
+### PostgreSQL ###
+A relational database used to store structured data like users, listings, reviews, and transactions securely and efficiently.
+
+### GraphQL ###
+A query language for APIs that lets clients request exactly the data they need, improving performance and flexibility.
+
+### Celery ###
+A task queue system for running background jobs like sending confirmation emails or processing payments asynchronously.
+
+### Redis ###
+An in-memory data store used for caching, managing sessions, and acting as a message broker for Celery tasks.
+
+### Docker ###
+A containerization tool that packages the app and its dependencies to ensure consistent deployment across environments.
+
+### CI/CD Pipelines ###
+Automated workflows for continuously testing, building, and deploying new updates safely and efficiently.
