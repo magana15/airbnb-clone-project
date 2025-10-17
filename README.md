@@ -1,3 +1,24 @@
 ## Airbnb clone project ##
 ### project description ###
 The project is a real world application designed to simulate the development of a robust booking like Airbnb which involves a deep dive into full-stack development. It focuses on backend systems database design API development and app security thus enabling the understanding of complex architectures workflows and collaborative team dynamics using technologies like **Django**, **docker** among others.
+
+## Team Roles ##
+### Business Analyst (BA) ###
+Understands the customer’s business processes, elicits and translates business needs into requirements, bridges between stakeholders and the development team.
+### Product Owner (PO) ###
+Owns the product vision and evolution, balances business needs and market demands, ensures the product meets customer requirements, manages the product backlog.
+
+### Project Manager ###
+Ensures that the project is delivered on time and within budget, plans and organizes tasks, motivates the team, and maintains communication and status transparency.
+### UI/UX Designer ###
+Designs the user interface and overall user experience, creates user journeys, wireframes, prototypes, ensures functionality is intuitive and visually appealing.
+### Software Architect ###
+Designs the high-level system architecture, selects tools and technologies, defines code quality standards, oversees architecture decisions and integration approaches.
+### Software Developer ###
+Implements features and functionality (front-end, back-end, or full stack), writes and maintains code, solves technical problems during development.
+### Quality Assurance  Engineer ###
+Verifies that the application meets both functional and non-functional requirements, identifies defects, runs tests, ensures quality across features.
+### Test Automation Engineer ###
+Builds and maintains automated test scripts and frameworks, selects areas suitable for automation, ensures automated tests provide reliable feedback.
+### DevOps Engineer ###
+Facilitates collaboration between development and operations, builds CI/CD pipelines, automates deployment and operations to accelerate delivery while maintaining stability.
