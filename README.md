@@ -45,3 +45,18 @@ A containerization tool that packages the app and its dependencies to ensure con
 
 ### CI/CD Pipelines ###
 Automated workflows for continuously testing, building, and deploying new updates safely and efficiently.
+
+## **database design** ##
+users - id,name,email,role, created-on
+properties- id, host-id,title,location,price
+bookings - id, guest-id, check-in,check-out,status
+payments - id, booking-id, amount,payment method,status
+reviews - id, payment-id,guest-id,rating,comment
+
+ ### **relationships** ###
+a host can have many properties
+a property can host many guests
+a user can review many properties
+a user can rate many properties
+a property can have many reviews
+a user can book many properties
