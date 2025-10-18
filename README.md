@@ -47,11 +47,11 @@ A containerization tool that packages the app and its dependencies to ensure con
 Automated workflows for continuously testing, building, and deploying new updates safely and efficiently.
 
 ## **database design** ##
-users - id,name,email,role, created-on
-properties- id, host-id,title,location,price
-bookings - id, guest-id, check-in,check-out,status
-payments - id, booking-id, amount,payment method,status
-reviews - id, payment-id,guest-id,rating,comment
+- users - id,name,email,role, created-on
+- properties- id, host-id,title,location,price
+- bookings - id, guest-id, check-in,check-out,status
+- payments - id, booking-id, amount,payment method,status
+* reviews - id, payment-id,guest-id,rating,comment
 
  ### **relationships** ###
 - a host can have many properties
